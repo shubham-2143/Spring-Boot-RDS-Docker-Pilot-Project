@@ -1,5 +1,5 @@
-/root/springboot-rds-docker-pilot/src/main/java/com/shubham/EmployeeManagementApplication.java
-/root/springboot-rds-docker-pilot/src/main/java/com/shubham/controller/EmployeeController.java
-/root/springboot-rds-docker-pilot/src/main/java/com/shubham/entity/Employee.java
-/root/springboot-rds-docker-pilot/src/main/java/com/shubham/repository/EmployeeRepository.java
-/root/springboot-rds-docker-pilot/src/main/java/com/shubham/service/EmployeeService.java
+/root/Spring-Boot-RDS-Docker-Pilot-Project/src/main/java/com/shubham/EmployeeManagementApplication.java
+/root/Spring-Boot-RDS-Docker-Pilot-Project/src/main/java/com/shubham/controller/EmployeeController.java
+/root/Spring-Boot-RDS-Docker-Pilot-Project/src/main/java/com/shubham/entity/Employee.java
+/root/Spring-Boot-RDS-Docker-Pilot-Project/src/main/java/com/shubham/repository/EmployeeRepository.java
+/root/Spring-Boot-RDS-Docker-Pilot-Project/src/main/java/com/shubham/service/EmployeeService.java
